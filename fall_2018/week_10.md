@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-This week I implemented full functionality for the Edop section code. Now that I finished that feature up and in addition to autocompleted fields I have accomplished what I wanted to get done this semester. 
+This week I implemented full functionality for the Edop section code. Now that I finished that feature setup in addition to autocompleted fields I have accomplished what I wanted to get done this semester. 
 
 ## This Week's Plan
 
